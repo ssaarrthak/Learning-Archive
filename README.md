@@ -9,9 +9,3 @@ As a college student, I use this archive to bridge the gap between academic theo
 
 ## 🗂️ Directory Structure
 Navigate through the folders below to see my progress in specific domains:
-
-```text
-📦 learning-archive
- ┣ 📂 complete-web-dev-bootcamp    # PERN Stack & Web3 coursework and projects
- ┣ 📂 operating-systems            # (Planned) CS fundamentals: context switching, process scheduling, etc.
- ┗ 📜 README.md                    # You are here!
